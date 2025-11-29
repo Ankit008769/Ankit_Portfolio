@@ -108,7 +108,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech in Electronics and Communication Engineering</strong> — N.I.T.
               (National Institute of Technology , Hamirpur), 2024–2028 <br />
-              <span style={{ color: "#aaa" }}>GPA: 9.0</span>
+              <span style={{ color: "#aaa" }}>GPA: 7.48</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>12th Board — S.G.R. Public School</strong> (CBSE
