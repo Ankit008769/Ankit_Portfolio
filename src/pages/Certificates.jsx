@@ -1,4 +1,4 @@
-/*import React, { useState } from "react";
+import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 // ✅ Certificates data (added URLs for View button)
@@ -65,7 +65,7 @@ export default function Certificates() {
 
         {/* Tabs */}
 
-        /*
+        
         <div style={{ display: "flex", gap: 10, marginTop: 16 }}>
           {["tech", "other"].map((t) => (
             <button
@@ -90,7 +90,7 @@ export default function Certificates() {
 
         {/* Certificates Grid */}
 
-        /*
+        
         <div
           className="certs-grid"
           style={{
@@ -161,7 +161,7 @@ export default function Certificates() {
       {/* Modal Preview */}
 
 
-      /*
+      
       <AnimatePresence>
         {selectedCert && (
           <motion.div
@@ -203,4 +203,3 @@ export default function Certificates() {
     </section>
   );
 }
-*/
