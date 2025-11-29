@@ -139,8 +139,8 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>S.C.E.T (National Institute of Technology Hamirpur)</strong> — Surat,
-                  Gujarat
+                  <strong>National Institute of Technology Hamirpur</strong> — Hamirpur,
+                  Rajasthan
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
                   2nd Year (Pursuing) | GPA: 7.48
