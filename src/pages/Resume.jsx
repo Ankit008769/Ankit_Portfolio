@@ -53,16 +53,16 @@ export default function Resume() {
         >
           <div>
             <h3 style={{ fontSize: 24, color: "#00b4ff", marginBottom: 4 }}>
-              👨‍💻 KUNJ D. DESAI
+              👨‍💻 ANKIT BHUKAR
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year B.Tech — AI & Data Science | S.C.E.T, Sarvajanik University
+              2ND Year B.Tech — ELECTRONICS AND COMMUNICATION ENGINEERING | N.I.T. ,HAMIRPUR
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              📍 Jahangirpura, Surat, Gujarat
+              📍 Sikar, Rajasthan
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              ✉️ kunjd2803@gmail.com | 📞 +91 8758209508
+              ✉️ ankitbhukar815@gmail.com | 📞 +91 7378026296
             </p>
           </div>
 
@@ -80,8 +80,8 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              4th-year B.Tech AI student experienced in ML, DL, and computer vision.
-              Skilled in Python, TensorFlow, PyTorch, and Scikit-learn. Passionate about
+              2nd-year B.Tech ECE student experienced in ML, DL, and computer vision.
+              Skilled in Python, NumPy , Pandas, and Scikit-learn. Passionate about
               building impactful AI systems and seeking opportunities to contribute to
               real-world AI projects.
             </p>
@@ -106,19 +106,19 @@ export default function Resume() {
           </h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
             <li>
-              <strong>B.Tech in Artificial Intelligence & Data Science</strong> — S.C.E.T
-              (Sarvajanik University), 2022–2026 <br />
+              <strong>B.Tech in Electronics and Communication Engineering</strong> — N.I.T.
+              (National Institute of Technology , Hamirpur), 2024–2028 <br />
               <span style={{ color: "#aaa" }}>GPA: 9.0</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>12th Board — R.S.M. Poonawala Experimental School</strong> (Gujarat
-              Board, 2022) <br />
-              <span style={{ color: "#aaa" }}>Percentage: 78%</span>
+              <strong>12th Board — S.G.R. Public School</strong> (CBSE
+              Board, 2023) <br />
+              <span style={{ color: "#aaa" }}>Percentage: 77.2%</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>10th Board — Ambika Niketan School</strong> (Gujarat Board, 2020)
+              <strong>10th Board — S.G.R. Public School</strong> (CBSE Board, 2021)
               <br />
-              <span style={{ color: "#aaa" }}>Percentage: 85%</span>
+              <span style={{ color: "#aaa" }}>Percentage: 92.8%</span>
             </li>
           </ul>
         </motion.div>
@@ -198,9 +198,10 @@ export default function Resume() {
           }}
         >
           {[
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/Kunj_2803/" },
-            { name: "💻 GitHub", link: "https://github.com/kunj2803" },
-            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
+            { name: "🏆 LeetCode", link: "https://leetcode.com/u/ankitbhukar/" },
+            { name: "🏆 GFG", link: "https://www.geeksforgeeks.org/profile/ankitbhukar" },
+            { name: "💻 GitHub", link: "https://github.com/Ankit008769" },
+            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/ankit-bhukar-4525ab324/" },
           ].map((site) => (
             <motion.a
               key={site.name}

@@ -8,13 +8,13 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest 🌲🌫️",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
+      photos: ["/gallery/ankit.jpg", "/gallery/ankit2.jpg"],
     },
     {
       id: 2,
       caption:
         "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallery/lonawala.jpg", "/gallery/lonawala2.jpg"],
+      photos: ["/gallery/bir.jpg", "/gallery/bir2.jpg"],
     },
   ],
   projects: [
@@ -36,7 +36,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "Solved 1000 LeetCode questions 🏆!",
-      photos: ["/gallery/leet.jpeg"],
+      photos: ["/gallery/leet.png"],
     },
     {
       id: 2,
