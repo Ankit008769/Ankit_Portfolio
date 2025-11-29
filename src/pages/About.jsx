@@ -56,7 +56,7 @@ const AboutMe = () => {
             marginBottom: "1rem",
           }}
         >
-          Hi, I’m <strong>Kunj Desai</strong> — an aspiring{" "}
+          Hi, I’m <strong>Ankit BHukar</strong> — an aspiring{" "}
           <strong>Artificial Intelligence Engineer</strong> and{" "}
           <strong>Machine Learning enthusiast</strong> who loves turning ideas
           into intelligent systems. I’m deeply fascinated by how data and
@@ -73,7 +73,7 @@ const AboutMe = () => {
         </p>
 
         <p>
-            4th-year B.Tech AI Engineering student with hands-on experience in ML & DL Projects. Proficient in Python, scikitlearn,pytorch,tensorflow and data preprocessing. Seeking internship opportunities to apply skills and contribute to
+            2nd-year B.Tech Electronics and Communication Engineering student with hands-on experience in ML & DL Projects. Proficient in Python, scikitlearn,pytorch,tensorflow and data preprocessing. Seeking internship opportunities to apply skills and contribute to
             impactful AI solutions.
         </p>
 
@@ -131,7 +131,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  B.Tech in Artificial Intelligence and Data Science
+                  B.Tech in Electronics and Communication Engineering
                 </h4>
                 <p
                   style={{
@@ -139,13 +139,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>S.C.E.T (Sarvajanik University)</strong> — Surat,
+                  <strong>S.C.E.T (National Institute of Technology Hamirpur)</strong> — Surat,
                   Gujarat
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  4th Year (Pursuing) | GPA: 9.0
+                  2nd Year (Pursuing) | GPA: 7.48
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>2024 – 2028</p>
               </div>
             </motion.div>
 
@@ -184,13 +184,12 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Ambika
-                  Niketan, Surat
+                  <strong>S.G.R. Public School</strong> — Bhadhadar, Sikar,Rajasthan
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 78%
+                  CBSE Board | Percentage: 77.2%
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2022</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2023</p>
               </div>
             </motion.div>
 
@@ -229,13 +228,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Surat,
-                  Gujarat
+                  <strong>S.G.R. Public School</strong> — Bhadhadar,Sikar,
+                  Rajasthan
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 69%
+                  CBSE Board | Percentage: 92.8%
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2021</p>
               </div>
             </motion.div>
           </div>
