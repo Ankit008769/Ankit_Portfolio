@@ -23,7 +23,7 @@ export default function Home() {
   ]
 
   const quickLinks = [
-    { img: githubLogo, title: 'GitHub', link: 'https://github.com/Ankit008769' },
+    { img: githubLogo, title: 'GitHub', link: 'https://github.com/Ankit008769/' },
     { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/ankit-bhukar-4525ab324/' },
     { img: gmailLogo, title: 'Email', link: 'ankitbhukar815@gmail.com' },
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+917378026296' },
