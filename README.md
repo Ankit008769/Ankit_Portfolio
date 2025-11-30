@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[kunj-Portfolio]]]((https://ankitbhukar-portfolio.netlify.app/))
+🌐 **Website:** [[[Ankit-Portfolio]]]((https://ankitbhukar-portfolio.netlify.app/))
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-30 192517"  />
@@ -60,8 +60,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [ankitbhukar815@gmail.com](mailto:ankitbhukar815@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ankit-bhukar-4525ab324/](https://www.linkedin.com/in/ankit-bhukar-4525ab324/)
 
 ---
 
