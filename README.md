@@ -5,9 +5,9 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[[Ankit-Portfolio]]]((https://ankitbhukar-portfolio.netlify.app/))
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-30 192517"  />
-<img width="1894" height="992" alt="Screenshot 2025-11-30 192601" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-30 192542" />
+<img width="1902" height="994" alt="Screenshot 2025-11-30 192517" src = "https://github.com/Ankit008769/Ankit_Portfolio/issues/1"  />
+<img width="1894" height="992" alt="Screenshot 2025-11-30 192601" src = "https://github.com/Ankit008769/Ankit_Portfolio/issues/2" />
+<img width="1903" height="1044" alt="Screenshot 2025-11-30 192542" src = "https://github.com/Ankit008769/Ankit_Portfolio/issues/3"/>
 ---
 
 ## 🚀 Features
