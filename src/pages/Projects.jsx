@@ -4,28 +4,28 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: '🩺 Mammogram Malignancy Detector',
-    desc: 'Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.',
-    ss: '/mamo.png',
-    tech: ['TensorFlow', 'Keras', 'OpenCV', 'YOLOv8'],
+    title: 'ATS-Proof_Resume_Generator',
+    desc: 'A web application that generates ATS-friendly resumes with optimized formatting and keyword integration.',
+    ss: '/ats-resume.png',
+    tech: ['React', 'Node.js', 'Python', 'Flask'],
     live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    code: 'https://github.com/Ankit008769/ATS-Proof-Resume-Generator'
   },
   {
-  title: '🧠 Mental Health Analyzer',
-  desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: '/mentalhealth.jpg',
-  tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
-  live: 'https://mental-health-analyzer.streamlit.app/',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
+  title: 'E-Shop',
+  desc: 'A full-stack e-commerce platform with user authentication, product management, and payment integration.',
+  ss: '/eshop.jpg',
+  tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+  // live: 'https://e-shop-demo.streamlit.app/',
+  code: 'https://github.com/Ankit008769/E-Commerce-Store'
   },
   {
-    title: '🤖 Indian Sign Language Interpreter',
-    desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
-    ss: '/ISL.png',
-    tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
+    title: 'Wine-Quality-Predictor',
+    desc: 'A machine learning model for predicting wine quality based on physicochemical properties.',
+    ss: '/wine-predictor.png',
+    tech: ['Python', 'scikit-learn', 'Pandas', 'Matplotlib'],
     live: '#',
-    code: 'https://github.com/kunjdesai/ISL-Interpreter'
+    // code: 'https://github.com/kunjdesai/ISL-Interpreter'
   },
   {
   title: '💼 Portfolio Website',
@@ -33,32 +33,16 @@ const PROJECTS = [
   ss: '/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
-  code: 'https://github.com/kunj2803/Kunj-Portfolio'
+  code: 'https://github.com/Ankit008769/Ankit_Portfolio'
   },
   {
-    title: '💬 DocuChat – Gemini AI Chatbot',
-    desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
+    title: 'NSS NITH',
+    desc: 'A Website for the National Service Scheme (NSS) at NIT Hamirpur, providing information about events, activities, and volunteer opportunities.',
     ss: '/Docuchat.png',
-    tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
-    live: 'https://docuchat-chatbot.streamlit.app/',
-    code: 'https://github.com/kunj2803/Docuchat-Chatbot'
+    tech: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Auth.js'],
+    // live: 'https://docuchat-chatbot.streamlit.app/',
+    code: 'https://github.com/Ankit008769/NSS-NITH'
   },
-  {
-    title: '📊 ProfileX – Data Profiler',
-    desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
-    ss: '/ProfileX.png',
-    tech: ['Streamlit', 'Pandas', 'Plotly'],
-    live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
-  },
-  {
-    title: '🧬 Breast Cancer Prediction',
-    desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/breastpred.jpg',
-    tech: ['scikit-learn', 'XGBoost', 'Pandas'],
-    live: '#',
-    code: 'https://github.com/kunjdesai/BreastCancerPrediction'
-  }
 ]
 
 export default function Projects() {

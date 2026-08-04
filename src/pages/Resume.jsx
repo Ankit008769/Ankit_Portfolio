@@ -56,7 +56,7 @@ export default function Resume() {
               👨‍💻 ANKIT BHUKAR
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              2ND Year B.Tech — ELECTRONICS AND COMMUNICATION ENGINEERING | N.I.T. ,HAMIRPUR
+              3rd Year B.Tech — ELECTRONICS AND COMMUNICATION ENGINEERING | N.I.T. ,HAMIRPUR
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍 Sikar, Rajasthan
@@ -80,10 +80,10 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              2nd-year B.Tech ECE student experienced in ML, DL, and computer vision.
-              Skilled in Python, NumPy , Pandas, and Scikit-learn. Passionate about
-              building impactful AI systems and seeking opportunities to contribute to
-              real-world AI projects.
+              3rd-year B.Tech ECE student experienced in Web Development and Machine Learning. 
+              Skilled in Python, C/C++, JavaScript, and React. 
+              Passionate about problem-solving, teamwork, and continuous learning. 
+              Seeking opportunities to contribute to innovative projects and enhance technical expertise.
             </p>
           </motion.div>
         </motion.div>
@@ -108,7 +108,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech in Electronics and Communication Engineering</strong> — N.I.T.
               (National Institute of Technology , Hamirpur), 2024–2028 <br />
-              <span style={{ color: "#aaa" }}>GPA: 7.48</span>
+              <span style={{ color: "#aaa" }}>GPA: 7.34</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>12th Board — S.G.R. Public School</strong> (CBSE
@@ -132,10 +132,11 @@ export default function Resume() {
         >
           <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 12 }}>💼 Projects</h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
-            <li>1️⃣ Breast Cancer Detection from Mammograms using YOLO & CNN</li>
-            <li>2️⃣ DocuChat: Document Q&A Chatbot (Gemini API)</li>
-            <li>3️⃣ Indian Sign Language Interpreter (In Progress)</li>
-            <li>4️⃣ Mental Health Analyzer</li>
+            <li>1️⃣ ATS-Proof_Resume_Generator </li>
+            <li>2️⃣ E-Shop</li>
+            <li>3️⃣ Wine-Quality-Predictor</li>
+            <li>4️⃣ NSS NITH(In Progress)</li>
+            <li>5️⃣ Portfolio Website</li>
           </ul>
         </motion.div>
 
@@ -152,19 +153,17 @@ export default function Resume() {
               "Python",
               "C",
               "C++",
-              "Java",
-              "TensorFlow",
-              "PyTorch",
+              "Javascript",
+              "TypeScript",
+              "NumPy",
+              "Pandas"
+              ,
               "Scikit-learn",
-              "OpenCV",
-              "YOLO",
-              "Streamlit",
               "React",
-              "MySQL",
+              "Node.js",
+              "Express.js",
               "MongoDB",
               "Git",
-              "NLP",
-              "Explainable AI (XAI)",
               "Problem Solving",
               "Teamwork",
               "Adaptability",
@@ -198,6 +197,7 @@ export default function Resume() {
           }}
         >
           {[
+            { name: "🏆 Codeforces", link: "https://codeforces.com/profile/ankitbhukar1234" },
             { name: "🏆 LeetCode", link: "https://leetcode.com/u/ankitbhukar/" },
             { name: "🏆 GFG", link: "https://www.geeksforgeeks.org/profile/ankitbhukar" },
             { name: "💻 GitHub", link: "https://github.com/Ankit008769" },

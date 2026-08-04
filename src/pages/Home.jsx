@@ -15,11 +15,12 @@ import facebookLogo from '../../public/facebook.png'
 
 export default function Home() {
   const professions = [
-    'AI Enthusiast',
-    'Machine Learning Engineer',
-    "Deep Learning Expert",
-    'Computer Vision Researcher',
-    'Developer',
+    'Web Developer',
+    'Tech Enthusiast',
+    'Problem Solver',
+    'UI/UX Designer',
+    'Open Source Contributor',
+    'Full Stack Developer'
   ]
 
   const quickLinks = [
@@ -91,7 +92,7 @@ export default function Home() {
 
           {/* Typing Animated Text */}
           <p className="typing-effect">
-            Artificial Intelligence Engineer | Frontend Developer | Tech Explorer
+            Web Developer | Tech Explorer
           </p>
 
           {/* Profession Tags */}
@@ -107,7 +108,7 @@ export default function Home() {
           <motion.div className="info-cards">
             {[
               { label: '📍 Location', value: 'Sikar, Rajasthan, India' },
-              { label: '💼 Expertise', value: 'AI/ML, Problem Solving' },
+              { label: '💼 Expertise', value: 'Web Development,DSA, Problem Solving' },
               { label: '📧 Contact', value: 'ankitbhukar815@gmail.com' },
             ].map((info, i) => (
               <motion.div key={i} whileHover={{ y: -4, scale: 1.05 }} transition={{ type: 'spring', stiffness: 250 }} className="info-card">
